@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "196204954153",
+    "firebase_url": "https://firemap-2a7f8.firebaseio.com",
+    "project_id": "firemap-2a7f8",
+    "storage_bucket": "firemap-2a7f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196204954153:android:56d0ba122125688f",
+        "android_client_info": {
+          "package_name": "com.aprilit.mapfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196204954153-ij6n64amtug22v2fo9si89nq4i6jb8g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe-WYCI9Q1vUAB6-gh8oHe48HT0fg3C24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
